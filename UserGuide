@@ -1,0 +1,4 @@
+** How to use? **
+1. import crypto_database.sql into server for basic database structure
+2. import crypto_dummy_data.sql into database to populate database
+3. import/ copy section by section of crypto_test_cases.sql to test the functionality of database
